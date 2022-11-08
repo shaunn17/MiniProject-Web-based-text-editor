@@ -8,4 +8,4 @@ It has low requirements and it can be used in both old and new computer systems.
 The main difference with other editors consists to the fact that opposite to them, only pure HTML and JavaScript is being used making the code as simple as possible. 
 In addition to it, “web-editor” can be easily adapted in any web-based application.
 
-Made in collaboration with Leah D'souza, Shaun Figueiro and Collin Ferreira.
+Made in collaboration with Leah D'souza, Rebecca Dsouza and Collin Ferreira.
